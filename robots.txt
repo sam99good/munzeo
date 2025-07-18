@@ -10,4 +10,4 @@ User-agent: Googlebot-Image
 User-agent: Googlebot-Mobile
 Allow: /
 
-Sitemap: https://www.limonelounge.com/sitemap.xml
+Sitemap: https://munzeo.com/sitemap.xml
